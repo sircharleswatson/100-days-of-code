@@ -12,8 +12,9 @@
 
 ### Day 1: Jan 1, Sunday
 
-**Today's Progress**: 
+**Today's Progress**: Created a new Elixir repo, start thinking about which front-end framework to go with
 
-**Thoughts**:
+**Thoughts**: I really want to use Vue for the mobile App I'll be building but Weex (the equivalent of ReactNative for VueJS) isn't ready yet. It is being converted to fully using Vue 2.0 but that may take a while before it's ready to be used. So I'm looking at using ReactNative.
 
-**Link(s) to work**:eddfv
+**Link(s) to work**:
+[bb-api initial commit](https://gitlab.com/sircharleswatson/bb-api/commit/fdb9c9b94c61bddd0b679784ba75924fed23ea0a)1. 

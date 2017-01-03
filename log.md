@@ -19,3 +19,13 @@
 **Link(s) to work**:
 
 1. [bb-api initial commit](https://gitlab.com/sircharleswatson/bb-api/commit/fdb9c9b94c61bddd0b679784ba75924fed23ea0a)
+
+### Day 2: Jan 2, Monday
+
+**Today's Progress**: Initialized my first real ReactNative App.
+
+**Thoughts**: Had to download Xcode and all that, which always takes forever. 
+
+**Link(s) to work**:
+
+1. [bb_mobile initial commit](https://gitlab.com/sircharleswatson/bb_mobile/commit/d6829e142a5afa64f5ed30b2974018a67c017049)

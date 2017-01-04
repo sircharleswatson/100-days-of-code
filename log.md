@@ -39,3 +39,11 @@
 **Link(s) to work**:
 
 1. [bb_mobile RN hello world branch](https://gitlab.com/sircharleswatson/bb_mobile/commit/9b70f9498f96bebbd8f15a479cfba52f88c40a8a)
+
+### Day 4: Jan 4, Wednesday
+
+**Today's Progress**: Tried and failed to get the Weex HackerNews iOS app running
+
+**Thoughts**: I checked out the source and it looks super great. Building native mobile apps with Vue will be awesome but I ran into some errors that I couldn't solve that prevented the app from running.
+
+**Link(s) to work**: N/A

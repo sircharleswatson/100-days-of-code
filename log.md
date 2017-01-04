@@ -29,3 +29,13 @@
 **Link(s) to work**:
 
 1. [bb_mobile initial commit](https://gitlab.com/sircharleswatson/bb_mobile/commit/d6829e142a5afa64f5ed30b2974018a67c017049)
+
+### Day 3: Jan 3, Tuesday
+
+**Today's Progress**: Started the ReactNative tutorial in the RN docs
+
+**Thoughts**: I decided that I need to include tutorials in my challenge because I've got a lot of other things I need to work on as well, so as long as it's a direct means to an end for the project, it's ok 
+
+**Link(s) to work**:
+
+1. [bb_mobile RN hello world branch](https://gitlab.com/sircharleswatson/bb_mobile/commit/9b70f9498f96bebbd8f15a479cfba52f88c40a8a)

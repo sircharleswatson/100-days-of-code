@@ -47,3 +47,11 @@
 **Thoughts**: I checked out the source and it looks super great. Building native mobile apps with Vue will be awesome but I ran into some errors that I couldn't solve that prevented the app from running.
 
 **Link(s) to work**: N/A
+
+### Day 5: Jan 5, Thursday
+
+**Today's Progress**: Started working on non-code aspects of my BB app
+
+**Thoughts**: I didn't really have anything planne dout yet so I need to do that. This challenge is all about building a project, so I'm giving myself some leeway to do non-code stuff, as long as it's still towards the project. 
+
+**Link(s) to work**: N/A

@@ -55,3 +55,11 @@
 **Thoughts**: I didn't really have anything planne dout yet so I need to do that. This challenge is all about building a project, so I'm giving myself some leeway to do non-code stuff, as long as it's still towards the project. 
 
 **Link(s) to work**: N/A
+
+### Day 6: Jan 6, Friday
+
+**Today's Progress**:More RN tutorial
+
+**Thoughts**: Sort of kinda worked on the RN tutorial. My keyboard was broken when I sat down to work on it so I was freaking out since my computer is brand spankin new. Got it fixed though and spend a few minutes advancing on the tutorial. Will do more tomorrow.
+
+**Link(s) to work**: N/A

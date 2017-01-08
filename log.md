@@ -58,8 +58,16 @@
 
 ### Day 6: Jan 6, Friday
 
-**Today's Progress**:More RN tutorial
+**Today's Progress**: More RN tutorial
 
 **Thoughts**: Sort of kinda worked on the RN tutorial. My keyboard was broken when I sat down to work on it so I was freaking out since my computer is brand spankin new. Got it fixed though and spend a few minutes advancing on the tutorial. Will do more tomorrow.
+
+**Link(s) to work**: N/A
+
+### Day 7: Jan 7, Saturday
+
+**Today's Progress**: More RN tutorial
+
+**Thoughts**: Finished the official RN tutorial. Wasn't very helpful to be honest. Gunna be starting another one tomorrow that should give me a better idea of the whole development process. Hopefully it's better.
 
 **Link(s) to work**: N/A

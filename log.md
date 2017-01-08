@@ -71,3 +71,11 @@
 **Thoughts**: Finished the official RN tutorial. Wasn't very helpful to be honest. Gunna be starting another one tomorrow that should give me a better idea of the whole development process. Hopefully it's better.
 
 **Link(s) to work**: N/A
+
+### Day 8: Jan 8, Sunday
+
+**Today's Progress**: More RN tutorial
+
+**Thoughts**: Started [this tutorial](https://www.smashingmagazine.com/2016/04/the-beauty-of-react-native-building-your-first-ios-app-with-javascript-part-1/) and it's going well so far.
+
+**Link(s) to work**: N/A

@@ -89,3 +89,11 @@
 **Pictures!!**:
 
 ![SplashWalls](https://github.com/sircharleswatson/100-days-of-code/blob/9535d16b3e2d4556d71301da7024234b8b8c808a/images/Screen%20Shot%202017-01-09%20at%2010.14.28%20PM.png)
+
+### Day 10: Jan 10, Tuesday
+
+**Today's Progress**: Add a double tap gesture to save photos to the camera roll
+
+**Thoughts**: following part 2 of [this tutorial](https://www.smashingmagazine.com/2016/04/how-to-build-your-first-ios-app-with-javascript/).
+
+**Link(s) to work**: N/A

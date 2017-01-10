@@ -79,3 +79,13 @@
 **Thoughts**: Started [this tutorial](https://www.smashingmagazine.com/2016/04/the-beauty-of-react-native-building-your-first-ios-app-with-javascript-part-1/) and it's going well so far.
 
 **Link(s) to work**: N/A
+
+### Day 9: Jan 9, Mondat
+
+**Today's Progress**: More RN tutorial
+
+**Thoughts**: Finished [part 1](https://www.smashingmagazine.com/2016/04/the-beauty-of-react-native-building-your-first-ios-app-with-javascript-part-1/) and started [part 2](https://www.smashingmagazine.com/2016/04/how-to-build-your-first-ios-app-with-javascript/).
+
+**Pictures!!**:
+
+![SplashWalls]()

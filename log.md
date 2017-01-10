@@ -80,7 +80,7 @@
 
 **Link(s) to work**: N/A
 
-### Day 9: Jan 9, Mondat
+### Day 9: Jan 9, Monday
 
 **Today's Progress**: More RN tutorial
 
@@ -88,4 +88,4 @@
 
 **Pictures!!**:
 
-![SplashWalls]()
+![SplashWalls](https://raw.githubusercontent.com/sircharleswatson/100-days-of-code/blob/master/images/Screen%20Shot%202017-01-09%20at%2010.14.28%20PM.png)

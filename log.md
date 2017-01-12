@@ -97,3 +97,11 @@
 **Thoughts**: following part 2 of [this tutorial](https://www.smashingmagazine.com/2016/04/how-to-build-your-first-ios-app-with-javascript/).
 
 **Link(s) to work**: N/A
+
+### Day 11: Jan 11, Wednesday
+
+**Today's Progress**: Added a progress HUD to show something while the saveToCameraRoll function is working
+
+**Thoughts**: Light day today because my "work work" is approaching a deadline and I'm a bit behind getting things done.
+
+**Link(s) to work**: N/A

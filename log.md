@@ -105,3 +105,11 @@
 **Thoughts**: Light day today because my "work work" is approaching a deadline and I'm a bit behind getting things done.
 
 **Link(s) to work**: N/A
+
+### Day 12: Jan 12, Thursday
+
+**Today's Progress**: Research day
+
+**Thoughts**: I know that doesn't really follow the rules but it's for my project so whatever :P 
+
+**Link(s) to work**: N/A

@@ -113,3 +113,11 @@
 **Thoughts**: I know that doesn't really follow the rules but it's for my project so whatever :P 
 
 **Link(s) to work**: N/A
+
+### Day 13: Jan 13, Friday
+
+**Today's Progress**: Research day
+
+**Thoughts**: More research/planning for mobile app 
+
+**Link(s) to work**: N/A
